@@ -1,0 +1,21 @@
+.addModal {
+    font-size: auto;
+    max-height: 820px;
+  }
+.addHeader 
+{
+    width: 100%;
+    border-bottom: 1px solid gray;
+    font-size: 18px;
+    text-align: center;
+    padding: 5px;
+    padding-top: 25px;
+} 
+#addButton {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.addForm 
+{
+    margin-top: 5px;
+}

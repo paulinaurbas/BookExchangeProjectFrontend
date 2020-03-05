@@ -1,0 +1,55 @@
+.alertInstance {
+    width: 100%;
+    padding: 10px 5px;
+    background-color: aliceblue;
+    height: 55px;
+  }
+  .acceptButton{
+    background-color: rgb(33, 141, 51);
+    position: relative;
+    float: right;  
+    margin-right: 5px;
+    height: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .declineButton{
+    background-color: rgb(212, 23, 23);
+    position: relative;
+    float: right;
+    margin-right: 5px;
+    height: 40px;
+  }
+  .postponeButton{
+    background-color: rgb(114, 114, 114);
+    position: relative;
+    float: right;
+    margin-right: 5px;
+    height: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .tick
+  {
+      font-size: 25px;
+      color: rgb(33, 141, 51);
+      position: relative;
+      float: right;
+      margin-right: 20px;
+  }
+  .cross
+  {
+      font-size: 25px;
+      color: rgb(212, 23, 23);
+      position: relative;
+      float: right;
+      margin-right: 20px;
+  }
+  .clock
+  {
+      font-size: 25px;
+      color: rgb(114, 114, 114);
+      position: relative;
+      float: right;
+      margin-right: 20px;
+  }

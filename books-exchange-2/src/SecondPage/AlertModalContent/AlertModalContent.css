@@ -1,0 +1,20 @@
+.alertModal {
+  font-size: auto;
+  max-width: 788px;
+  max-height: 400px;
+  overflow: auto;
+  overflow-x: hidden;
+}
+.alertHeader {
+  width: 100%;
+  border-bottom: 1px solid gray;
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+}
+li 
+{ 
+  list-style-type: none;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}

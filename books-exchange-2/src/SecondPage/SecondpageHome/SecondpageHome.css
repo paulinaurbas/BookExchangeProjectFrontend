@@ -1,0 +1,52 @@
+.ShelvesPart
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+   margin: 0; 
+  background: #fdfdfd; 
+  min-height: 450px;
+   width: 100%; 
+   height: 450px; 
+   margin-top: 120px;
+   padding-left: 20px;
+   padding-right: 20px;
+    display:block;
+    text-align:center;
+    border: 2px;
+    position: absolute;
+    border-radius: 2px 2px 2px 2px;
+}
+.ShelfBookYouWant
+{
+   display: inline-block;
+   overflow: auto;
+   margin-top: 50px;
+   width: 45%;
+   height: 400px;
+   float: left;
+}
+.ShelfBookYouExchange
+{
+   display: inline-block;
+   overflow: auto;
+   margin-top: 50px;
+   position: obsolute;
+   width: 45%;
+   height: 400px;
+   float: right;
+}
+h3 
+{
+   margin-top: 10px;
+}
+.Matches
+{
+   min-height: 450px;
+   margin-top: 100px;
+}
+.buttons
+{
+   margin-top: 5px;
+}
